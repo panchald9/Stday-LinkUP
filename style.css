@@ -47,6 +47,7 @@ wrapper{
 }
 .nav-button .btn{
     margin-top: 30px;
+	text-decoration: none;
     width: 130px;
     height: 40px;
     font-weight: 500;
